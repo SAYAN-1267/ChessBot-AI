@@ -383,3 +383,4 @@ ChessBotAI/
 6. Include a brief description of your changes, any new dependencies, and what you tested.
 
 We welcome enhancements such as: improved heuristics, GUI polish, time controls, UCI support, or modularizing the code further.
+# ChessBot-AI
