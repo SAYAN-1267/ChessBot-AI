@@ -85,8 +85,8 @@ Below is a high-level overview of a typical game session:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/amiit04/ChessBotAI.git
-   cd ChessBotAI
+   git clone https://github.com/SAYAN-1267/ChessBot-AI.git
+   cd ChessBot-AI
    ```
 
 2. **Create and activate a virtual environment** (recommended)
